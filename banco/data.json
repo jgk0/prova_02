@@ -1,0 +1,5 @@
+[{"id":1, "modalidade":"Natação", "tipo":"Nado livre", "distancia":0.1, "sexo":"Masculino", "local":"Estados Unidos"},
+{"id":2, "modalidade":"Futebol", "tipo":"Quadra","sexo":"Feminino", "local":"Estados Unidos"},
+{"id":3, "modalidade":"Tiro com arco", "tipo":"Arma curta", "distancia":1, "sexo":"Masculino", "local":"Estados Unidos"},
+{"id":4, "modalidade":"Ciclismo", "tipo":"Pista", "distancia":10, "sexo":"Feminino", "local":"Estados Unidos"},
+{"id":5, "modalidade":"Hipismo", "tipo":"Saltos", "distancia":0.1, "sexo":"Feminino", "local":"Estados Unidos"}]
